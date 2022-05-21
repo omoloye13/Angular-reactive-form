@@ -1,0 +1,28 @@
+/* Add application styles & imports to this file! */
+body{
+  background-color: yellow;
+
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.spin{
+  display: block;
+}
+
+.container{
+  /* border: solid red; */
+  width: 100%;
+  margin-left: 0%;
+  margin: auto;
+  margin-top: 2%;
+
+}
+.jumbotron{
+  /* border: solid blue; */
+  /* width: 100%; */
+  margin-left: 0%;
+  /* text-align: center; */
+  height: fit-content;
+}
